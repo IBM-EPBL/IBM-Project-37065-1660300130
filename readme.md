@@ -3,7 +3,6 @@ SMART SOLUTION FOR RAILWAYS
 TEAM ID: PNT2022TMID27503
 
 Team Members:
-
   1) Bhuvanesh AK
 
   2) Deepak Saravanan
